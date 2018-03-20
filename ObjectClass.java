@@ -4,11 +4,11 @@ public class ObjectClass {
 	  
 		public static void main(String args[]){  
 		
-		String s1="javatpoint"; 
+		String s1="c"; 
 		
-		String s2="javatpoint"; 
+		String s2="c++"; 
 		
-		String s3="JAVATPOINT";  
+		String s3="JAVA";  
 		
 		String s4="python"; 
 		
